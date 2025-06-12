@@ -1,7 +1,7 @@
 # Fereydoun Farrahi Moghaddam (frdfm)
 
 - I'm currently working on LLMs. Most of the work is private for now; I'll gradually share the clean parts here.
-- Check out [frdfm_ml_public](https://github.com/frdfm/frdfm_ml_public) for simple RAG and transformer examples.
+- Check out [frdfm_ml_public](https://github.com/frdfm/frdfm_ml_public) for a simple RAG and a simple transformer example.
 
 <!--
 ## Hi there 👋
